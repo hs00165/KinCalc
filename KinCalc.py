@@ -10,6 +10,9 @@ import math
 # plotting the graph in  
 # tkinter window 
 
+# This program calculates the relativist kinematics for the light ejectile for 
+# nuclear physics reactions
+
 
 
 energy_saved = [[]]
